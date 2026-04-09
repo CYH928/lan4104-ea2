@@ -13,7 +13,7 @@ Good afternoon, honourable judges. Thank you for taking the time to listen to ou
 
 **[Pain Point 1 – Emotional Appeal]**
 
-Picture a typical night in Hong Kong. An elderly man lives alone in a small flat. It is 3 in the morning. He suddenly feels pain in his chest. He is scared and confused. Should he call an ambulance? Should he wait until morning? There is no doctor to call at this hour. He tries to search online, but the information is confusing and hard to trust. In the end, he sits alone in the dark, waiting, and hoping for the best. Many elderly people and low-income families in Hong Kong face this kind of situation every day. They feel worried, helpless, and they do not know where to turn for help.
+Picture a typical night in Hong Kong. An elderly man lives alone in a small flat. It is 3 in the morning. He suddenly feels pain in his chest. He is scared and confused. Should he call an ambulance? Should he wait until morning? There is no doctor to call at this hour. He tries to search online, but the information is confusing and hard to trust. In the end, he sits alone in the dark, waiting, and hoping for the best. Many elderly people and low-income families in Hong Kong face this kind of situation every day. They feel worried and helpless, and they do not know where to turn for help.
 
 **[Pain Point 2 – Logical Appeal]**
 

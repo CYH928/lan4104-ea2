@@ -54,7 +54,7 @@ As evidenced by our pilot study, our AI achieved an accuracy rate of 88.6% in me
 
 **[Solution 2: Present: What is it?]**
 
-Moving on to our second solution, **Smart Medical Tools**, which integrates three powerful features into a single, user-friendly app.
+Our second solution is **Smart Medical Tools**, which integrates three powerful features into a single, user-friendly app.
 
 **[Elaborate: Providing Data + Implementation Details]**
 

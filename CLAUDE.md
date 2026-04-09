@@ -91,5 +91,7 @@ Required elaboration techniques:
 
 - **No tech jargon** — judges are English teachers, not ICT professionals. Avoid: RAG, MedGemma, FastAPI, deployment, encrypted (use "safe and secure"), API, fine-tuning, etc.
 - **Commonly known terms are OK:** AI, GPS, X-ray, CT scan, MRI, app, cloud
+- **No em-dashes (`—`) in spoken scripts** — speakers cannot say them. Use commas, "and", or split into two sentences instead.
 - Word count per speaker: 310–400 words (~2.5 min at HK student speaking pace)
 - Scripts are in Markdown; do not convert to code
+- Both script files have been grammar-checked and are final. Any edits must maintain spoken-English naturalness (short sentences, no fragments, parallel lists).
